@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589997405 source:c:\users\user\desktop\252hw3\252hw3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590002694 source:c:\users\user\desktop\tedu\cmpe 252\252hw3\252hw3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
